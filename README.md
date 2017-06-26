@@ -1,1 +1,9 @@
-# [the-c-programming-language](https://github.com/amazingandyyy/the-c-programming-language/raw/master/The%20C%20Programming%20Language%20-%202nd%20Edition%20-%20Ritchie%20Kernighan.pdf)
+# The C Programming Language - Second Edition
+![book](https://i.imgur.com/tLxVlhX.png)
+
+## author
+Brian W. Kernighan and Dennis M. Ritchie(referred to as K&R, after its authors' initials)
+
+## Sources in this Repo
+- [examples source]() in the book
+- [exercises solutions]() in the book
